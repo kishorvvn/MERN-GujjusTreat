@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <a href="">Gujju</a>
+    <div className="">
+      <header className="">
+        <a href="">Gujju's Treat</a>
       </header>
     </div>
   );
