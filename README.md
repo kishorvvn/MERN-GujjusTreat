@@ -31,8 +31,17 @@ Part 4 Create Node.JS Server
 12. run npm start
 
 Part 5 Fetch products from backend
-  1. set proxy in package.json
-  2. npm install axios
-  3. use useState hook
-  4. use useEffect hook
-  5. use useReducer hook
+
+1. set proxy in package.json
+2. npm install axios
+3. use useState hook
+4. use useEffect hook
+5. use useReducer hook
+
+Part 6 Manage State by useReducer Hook
+
+1. Define reducer
+2. update fetch data
+3. get state from reducer
+4. use use-reducer-logger --force to use logger for states
+5. conditionally render products based on loading, success or error
