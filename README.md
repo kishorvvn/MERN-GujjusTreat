@@ -29,3 +29,10 @@ Part 4 Create Node.JS Server
 10. create foute for /api/products
 11. return products
 12. run npm start
+
+Part 5 Fetch products from backend
+  1. set proxy in package.json
+  2. npm install axios
+  3. use useState hook
+  4. use useEffect hook
+  5. use useReducer hook
